@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PassOP/static/css/main.91a3ef15.css",
+    "main.js": "/PassOP/static/js/main.fcee56a7.js",
+    "static/js/453.8ae3ac38.chunk.js": "/PassOP/static/js/453.8ae3ac38.chunk.js",
+    "static/media/R.jpeg": "/PassOP/static/media/R.802470d588269e64d85d.jpeg",
+    "index.html": "/PassOP/index.html",
+    "main.91a3ef15.css.map": "/PassOP/static/css/main.91a3ef15.css.map",
+    "main.fcee56a7.js.map": "/PassOP/static/js/main.fcee56a7.js.map",
+    "453.8ae3ac38.chunk.js.map": "/PassOP/static/js/453.8ae3ac38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a3ef15.css",
+    "static/js/main.fcee56a7.js"
+  ]
+}
